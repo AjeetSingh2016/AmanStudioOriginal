@@ -1,0 +1,10 @@
+#wrapper1{
+    margin-bottom: 5vh;
+}
+.show-more{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+}
