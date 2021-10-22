@@ -8,3 +8,10 @@
     width: 100%;
     
 }
+div{
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
