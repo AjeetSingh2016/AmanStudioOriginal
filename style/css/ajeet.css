@@ -8,10 +8,30 @@
     width: 100%;
     
 }
-div{
+/* div{
     height: 70vh;
     display: flex;
     align-items: center;
     justify-content: center;
 
+} */
+.team{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media (max-width: 540px) {
+    .team{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+
+}
+.counting{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
